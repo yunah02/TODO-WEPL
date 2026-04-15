@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# 환경 파일
+.env
+
+# VS Code 설정
+.vscode/
+
+# Mac (혹시 쓸 경우)
+.DS_Store
